@@ -1,0 +1,29 @@
+.login-background {
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: black 1px;
+}
+
+.max-height {
+    height: 100vh;
+}
+
+form.jumbotron {
+    padding: 4rem 4rem 0rem 4rem;
+}
+
+.jumbotron.unmargined {
+    padding: 0px;
+}
+
+.footer {
+    background-color: #3d4a51;
+    padding: 1.3rem 2rem 1.3rem 2rem;
+    color: #dee3d2;
+    font-size: 17px;
+    font-family: 'Open Sans Light', sans-serif;
+
+    border-bottom-left-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    line-height: 31px;
+}
